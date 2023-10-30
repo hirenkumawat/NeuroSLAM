@@ -1,0 +1,6 @@
+**/__pycache__
+.vscode
+**/*.egg-info
+*.mp4
+!*_sample.mp4
+/test_notebooks/data

@@ -1,0 +1,3 @@
+[submodule "lava-dnf"]
+	path = lava-dnf
+	url = ./lava-dnf

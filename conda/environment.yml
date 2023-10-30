@@ -1,0 +1,19 @@
+name: ratslam
+channels:
+    - conda-forge
+dependencies:
+    - bandit
+    - flake8
+    - jupyter
+    - matplotlib
+    - mypy
+    - numpy
+    - pytest
+    - python>=3.8
+    - pyyaml
+    - Pillow
+    - pandas
+    - opencv
+    - colour
+    - scipy
+    - lava
